@@ -1,0 +1,20 @@
+* {
+    background-color: lightgray;
+    border: solid 1px black;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 600px;
+    width: 100%;
+}
+#lg-box-1 {
+    border: solid 2px black;
+}
+
+#lg-box-2 {
+    border: solid 2px black;
+
+}
